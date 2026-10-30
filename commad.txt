@@ -1,0 +1,1 @@
+Build commad : cmake --build build-mingw --parallel 4
